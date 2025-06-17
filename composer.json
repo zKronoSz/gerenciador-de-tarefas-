@@ -1,0 +1,7 @@
+{
+    "name": "jhonx/gerenciador-tarefas",
+    "description": "gerenciador de tarefas",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
